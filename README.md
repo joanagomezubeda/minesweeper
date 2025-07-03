@@ -1,1 +1,2 @@
-# minesweeper
+# 💣 Minesweeper
+
